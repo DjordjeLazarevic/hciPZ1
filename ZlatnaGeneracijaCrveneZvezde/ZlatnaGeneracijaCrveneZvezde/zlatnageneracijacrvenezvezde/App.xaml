@@ -1,7 +1,7 @@
-﻿<Application x:Class="ZlatnaGeneracijaCrveneZvezde.App"
+﻿<Application x:Class="zlatnageneracijacrvenezvezde.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:ZlatnaGeneracijaCrveneZvezde"
+             xmlns:local="clr-namespace:zlatnageneracijacrvenezvezde"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

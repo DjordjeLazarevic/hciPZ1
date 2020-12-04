@@ -8,10 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ZlatnaGeneracijaCrveneZvezde.Properties
+
+namespace zlatnageneracijacrvenezvezde.Properties
 {
-
-
 	/// <summary>
 	///   A strongly-typed resource class, for looking up localized strings, etc.
 	/// </summary>
@@ -44,7 +43,7 @@ namespace ZlatnaGeneracijaCrveneZvezde.Properties
 			{
 				if ((resourceMan == null))
 				{
-					global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ZlatnaGeneracijaCrveneZvezde.Properties.Resources", typeof(Resources).Assembly);
+					global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("zlatnageneracijacrvenezvezde.Properties.Resources", typeof(Resources).Assembly);
 					resourceMan = temp;
 				}
 				return resourceMan;
